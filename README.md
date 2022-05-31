@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EgorKhandrik
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python, SQL
+- 🌱 I’m currently learning Python, SQL, BI
 
 
 <!---
